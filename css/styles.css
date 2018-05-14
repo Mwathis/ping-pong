@@ -1,0 +1,37 @@
+/*Section1 styles start*/
+.box1 {
+  background-image: url(../img/img1.jpg);
+  height: 400px;
+}
+#header1 {
+  text-align: center;
+  padding-top: 45px;
+  font-size: 100px;
+  font-family: 'Pangolin', cursive;
+  color: #FAF7F7;
+}
+#foo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+/*Section1 styles end*/
+
+/*Section1 styles start*/
+.box2 {
+  background-color: #cfc9c3;
+}
+.sidebar {
+  background-color: #3BDDCC;
+  width: 350px;
+  height: 700px;
+  margin-top: 25px;
+  float: left;
+  margin-left: 0;
+  padding:5px 5px 0px 20px;
+  border-radius: 10px;
+}
+#play {
+  padding:80px 30px 0px 0px;
+}
+/*Section1 styles start*/
