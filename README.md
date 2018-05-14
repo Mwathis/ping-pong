@@ -24,7 +24,7 @@ This is a Web Application that takes a number from a user and returns a series o
 git clone https://github.com/Mwathis/ping-pong.git
 ```
 ## Link To Live Site
-You can find the site [here](https://github.com/Mwathis/ping-pong)
+You can find the site [here](https://mwathis.github.io/ping-pong/)
 
 ## Copyright and License
 MIT License
