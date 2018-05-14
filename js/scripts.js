@@ -32,10 +32,5 @@ $(document).ready(function(){
 			for(var index=0;index<result.length;index+=1){
 				$("ul#output").append("<li>"+result[index]+"</li>")
 			}
-			/*
-			numbers.forEach(function(number){
-				$("ul#output").append("<li>"+number+"</li>")
-		});
-		*/
 	});
 });
