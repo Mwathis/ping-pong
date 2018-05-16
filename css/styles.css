@@ -1,0 +1,46 @@
+#box {
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  height: 300px;
+}
+.padding-0 {
+  padding-right: 0;
+  padding-left: 0;
+}
+#foo {
+  height: 850px;
+  width: 650px;
+}
+#para1 {
+  color: white;
+  font-family: 'Skranji', cursive;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 75px;
+}
+#imgs3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  height: 65px;
+  width: 65px;
+}
+#button {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+}
+#button:hover {
+  background-color: #D3E242;
+  color: #6A6B66;
+}
