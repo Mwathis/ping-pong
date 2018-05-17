@@ -16,8 +16,8 @@ This is a Web Application that takes a number from a user and returns a series o
 ## Technologies Used
 1. Html
 2. Css
-3. Javascript
-4. Jquery
+3. Javascript (Jquery)
+4. Bootstrap
 
 ## Setup
 ```
